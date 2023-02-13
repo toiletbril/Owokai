@@ -1,0 +1,44 @@
+{
+	"name": "owokai-theme",
+	"displayName": "Owokai Theme",
+	"publisher": "fluffyfen",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/toiletbril/Owokai.git"
+	},
+	"description": "Creamy themes :3",
+	"version": "0.3.0",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Owokai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Owokai-color-theme.json"
+			},
+			{
+				"label": "Owokai Alt",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Owokai-Alt-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "88a6f457-5f08-4732-b567-8f1f9b174791",
+		"publisherDisplayName": "fluffyfen",
+		"publisherId": "9fad8521-b674-4506-988a-bb46519ad8b2",
+		"isPreReleaseVersion": false,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"installedTimestamp": 1676309194841,
+		"preRelease": false
+	}
+}
