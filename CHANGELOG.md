@@ -3,7 +3,7 @@
 0.3.0
 
 - More colors tweaks
-- Previews !!!
+- Previews !!
 
 ---
 
