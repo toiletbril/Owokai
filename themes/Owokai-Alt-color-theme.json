@@ -30,6 +30,7 @@
     "editorSuggestWidget.background": "#1a1c1dd0",
     "editorSuggestWidget.border": "#282828",
     "editorGroup.border": "#242424",
+    "breadcrumb.background": "#1a1c1d",
     "editor.wordHighlightBackground": "#4a4a7680",
     "editor.wordHighlightStrongBackground": "#6a6a9680",
     "editor.lineHighlightBackground": "#6c71a810",
