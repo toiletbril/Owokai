@@ -3,7 +3,7 @@
 #  Owokai Themes
 
 Originally a fork of Monokai theme with custom colors,
-now a standalone theme pack with beautiful eye friendly colors.
+now a standalone theme pack.
 
 | Owokai                                      | Owokai Alt                                     |
 | ------------------------------------------- | ---------------------------------------------- |
