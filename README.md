@@ -2,8 +2,7 @@
 
 #  Owokai Themes
 
-Originally a fork of Monokai theme,
-now a standalone theme pack :3c
+Originally a fork of Monokai theme, now a standalone theme pack :3c
 
 | Owokai                                      | Owokai Alt                                     |
 | ------------------------------------------- | ---------------------------------------------- |
@@ -15,6 +14,7 @@ For updates, see [Changelog](https://github.com/toiletbril/Owokai/blob/HEAD/CHAN
 ## Installation
 
 This extension is available from VSCode marketplace.
+
 ```
 ext install owokai-theme
 ```
