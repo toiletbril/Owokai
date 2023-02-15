@@ -1,5 +1,12 @@
 # Change Log
 
+0.3.4
+
+- Fixed statusbar colors
+- Fixed foregrounds
+
+---
+
 0.3.0
 
 - More colors tweaks
