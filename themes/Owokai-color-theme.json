@@ -122,7 +122,8 @@
         "titleBar.activeBackground": "#1f1f1c",
         "titleBar.inactiveBackground": "#1b1c19",
         "widget.border": "#333333",
-        "widget.shadow": "#00000098"
+        "widget.shadow": "#00000098",
+        "editorWidget.resizeBorder": "#00000000"
     },
     "tokenColors": [
         {

@@ -4,6 +4,7 @@
 
 - Fixed statusbar colors
 - Fixed foregrounds
+- Fixed buttons
 
 ---
 
