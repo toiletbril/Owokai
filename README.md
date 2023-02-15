@@ -15,3 +15,6 @@ For updates, see [Changelog](https://github.com/toiletbril/Owokai/blob/HEAD/CHAN
 ## Installation
 
 This extension is available from VSCode marketplace.
+```
+ext install owokai-theme
+```
