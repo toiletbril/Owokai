@@ -8,7 +8,7 @@
 - Sorted JSON files
 - Added marketplace icon
 
-`Owokai Alt`
+Owokai Alt
 - Tweaked `gitDecoration`
 - Tweaked selection colors
 
