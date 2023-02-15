@@ -47,6 +47,7 @@
         "editorUnnecessaryCode.opacity": "#000000aa",
         "editorWhitespace.foreground": "#46474160",
         "editorWidget.background": "#1f1f1c",
+        "editorWidget.resizeBorder": "#00000000",
         "focusBorder": "#282925",
         "input.background": "#1f1f1c",
         "inputValidation.errorBackground": "#90274A",
@@ -122,8 +123,7 @@
         "titleBar.activeBackground": "#1f1f1c",
         "titleBar.inactiveBackground": "#1b1c19",
         "widget.border": "#333333",
-        "widget.shadow": "#00000098",
-        "editorWidget.resizeBorder": "#00000000"
+        "widget.shadow": "#00000098"
     },
     "tokenColors": [
         {
