@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.4.0
+
+- Tweak borders
+- Tweak badge colors
+- Added secret custom [custom.css](./custom.css)
+
 # 0.3.4
 
 - Fixed statusbar colors
