@@ -101,7 +101,7 @@
         "statusBar.foreground": "#969b8c",
         "statusBar.noFolderBackground": "#1f1e1c",
         "statusBarItem.remoteBackground": "#2f520b",
-        "tab.border": "#2e2d2d",
+        "tab.border": "#2c2c28",
         "tab.activeBorder": "#987514",
         "tab.inactiveBackground": "#1f1e1c",
         "tab.inactiveForeground": "#ccccc7",
