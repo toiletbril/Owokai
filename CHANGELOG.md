@@ -4,7 +4,7 @@
 
 - Tweak borders
 - Tweak badge colors
-- Added secret custom [custom.css](./custom.css)
+- Added secret [custom.css](./custom.css) (see [README.md](./README.md#experimental-custom-css))
 
 # 0.3.4
 
