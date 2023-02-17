@@ -19,6 +19,10 @@
         "dropdown.background": "#1f1e1c",
         "dropdown.listBackground": "#1f1e1c",
         "editor.background": "#171716",
+        "editor.findMatchBackground": "#d7da8600",
+        "editor.findMatchBorder": "#efefef90",
+        "editor.findMatchHighlightBackground": "#d7da8620",
+        "editor.findMatchHighlightBorder": "#d9da86aa",
         "editor.foreground": "#c5c5c5",
         "editor.lineHighlightBorder": "#2c2c2840",
         "editor.selectionBackground": "#8d918780",
@@ -74,10 +78,6 @@
         "panelTitle.activeBorder": "#00000000",
         "panelTitle.activeForeground": "#c5c5c0",
         "panelTitle.inactiveForeground": "#75715E",
-        "editor.findMatchHighlightBackground": "#d7da8620",
-        "editor.findMatchHighlightBorder": "#d9da86aa",
-        "editor.findMatchBackground": "#d7da8600",
-        "editor.findMatchBorder": "#efefef90",
         "peekViewEditor.background": "#1f1e1c",
         "peekViewEditor.matchHighlightBackground": "#373a33",
         "peekViewResult.background": "#1f1e1c",
@@ -106,7 +106,6 @@
         "statusBar.foreground": "#969b8c",
         "statusBar.noFolderBackground": "#1f1e1c",
         "statusBarItem.remoteBackground": "#2f520b",
-        "tab.border": "#2c2c28",
         "tab.inactiveBackground": "#1f1e1c",
         "tab.inactiveForeground": "#ccccc7",
         "tab.lastPinnedBorder": "#414339",
@@ -128,10 +127,11 @@
         "terminal.ansiYellow": "#B3B42B",
         "terminal.background": "#111111",
         "titleBar.activeBackground": "#1f1e1c",
-        "titleBar.border": "#2c2c28",
         "titleBar.inactiveBackground": "#1b1c19",
         "widget.border": "#333333",
-        "widget.shadow": "#00000098"
+        "widget.shadow": "#00000098",
+        "tab.border": "#2c2c28",
+        "titleBar.border": "#2c2c28"
     },
     "tokenColors": [
         {
