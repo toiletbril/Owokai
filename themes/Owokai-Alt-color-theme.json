@@ -129,7 +129,6 @@
     "tab.activeBackground": "#2d2f35",
     "tab.activeBorder": "#4362b6",
     "tab.hoverBackground": "#292b2f",
-    //"tab.border": "#333333",
     "tab.inactiveBackground": "#222426",
     "tab.inactiveForeground": "#ccccc7",
     "tab.lastPinnedBorder": "#393d43",
