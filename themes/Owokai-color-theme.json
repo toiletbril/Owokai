@@ -89,7 +89,7 @@
         "progressBar.background": "#75715E",
         "quickInputList.focusBackground": "#414339",
         "scrollbar.shadow": "#000000aa",
-        "scrollbarSlider.background": "#2c2e27",
+        "scrollbarSlider.background": "#33352daa",
         "selection.background": "#8d918780",
         "settings.checkboxBackground": "#232420",
         "settings.focusedRowBackground": "#171716",
