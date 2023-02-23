@@ -1,5 +1,12 @@
 # Change Log
 
+# 0.4.1
+
+- Improved [custom.css](./custom.css)
+
+Owokai
+- Reverse some border changes
+
 # 0.4.0
 
 - Tweak borders
