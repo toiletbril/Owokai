@@ -1,5 +1,10 @@
 # Change Log
 
+# 0.4.4
+
+- Change syntax highlighting
+- Change 
+
 # 0.4.1
 
 - Improved [custom.css](./custom.css)
