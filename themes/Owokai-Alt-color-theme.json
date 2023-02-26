@@ -286,6 +286,7 @@
         "keyword.operator",
         "entity.name.tag.css",
         "storage.type.function",
+        "variable.language.this",
         "storage.type.annotation",
         "keyword.operator.constructor"
       ],
@@ -324,6 +325,7 @@
         "entity.name.tag",
         "entity.name.tag.class.js",
         "entity.name.function-call",
+        "storage.modifier.reference",
         "entity.other.inherited-class.java",
       ],
       "settings": {
@@ -350,7 +352,6 @@
       "name": "Variable Object",
       "scope": [
         "variable.readwrite",
-        "variable.language.this",
         "variable.readwrite.other.block",
         "variable.other.readwrite.class",
         "variable.other.readwrite.instance",

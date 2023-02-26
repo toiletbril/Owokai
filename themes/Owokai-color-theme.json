@@ -205,6 +205,7 @@
                 "keyword.import",
                 "keyword.package",
                 "keyword.function",
+                "variable.language.this",
                 "keyword.operator.logical",
                 "keyword.operator.constructor"
             ],
@@ -263,6 +264,7 @@
             "scope": "keyword.operator",
             "settings": {
                 "foreground": "#c5c5c5",
+                "fontStyle": ""
             }
         },
         {
