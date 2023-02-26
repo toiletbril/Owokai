@@ -3,7 +3,6 @@
 # 0.4.4
 
 - Change syntax highlighting
-- Change 
 
 # 0.4.1
 
