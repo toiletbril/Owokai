@@ -1,13 +1,13 @@
-.monaco-editor .suggest-widget, .suggest-details, .monaco-hover {
-   padding: 5px;
-   border-radius: 10px;
-   box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.1);
+.monaco-editor .suggest-widget, .suggest-details, .monaco-hover, .editor-widget {
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.1);
 }
-
+ 
 .monaco-editor .monaco-list-row, .slider {
-   border-radius: 4px;
+    border-radius: 4px;
 }
-
+ 
 .tab {
-   border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
 }
