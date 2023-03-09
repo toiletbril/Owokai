@@ -219,6 +219,7 @@
         "storage.modifier.import",
         "source.elixir.embedded",
         "variable.other.local",
+        "variable.other.rust",
         "meta.brace",
         "source",
         "text",
