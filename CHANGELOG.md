@@ -1,5 +1,9 @@
 # Change Log
 
+# 0.4.5
+
+- Fix Rust syntax colors
+
 # 0.4.4
 
 - Change syntax highlighting
