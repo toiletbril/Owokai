@@ -2,20 +2,22 @@
 
 # 0.4.5
 
-- Fixed Rust syntax colors
-- Fixed string interpolation
 - Tweaked matching bracket colors
+
+Owokai Alt
+- Fixed Rust syntax colors
+- Fixed string interpolation colors
 
 # 0.4.4
 
-- Change syntax highlighting
+- Changed syntax highlighting
 
 # 0.4.1
 
 - Improved [custom.css](./custom.css)
 
 Owokai
-- Reverse some border changes
+- Revert some border changes
 
 # 0.4.0
 
