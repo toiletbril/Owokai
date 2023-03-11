@@ -34,6 +34,8 @@
         "editorBracketHighlight.foreground3": "#B48EAD",
         "editorBracketHighlight.foreground4": "#D08770",
         "editorBracketHighlight.foreground5": "#A3BE8C",
+        "editorBracketMatch.border": "#5b73d4aa",
+        "editorBracketMatch.background": "#5b73d490",
         "editorCursor.background": "#0e0e0e",
         "editorCursor.foreground": "#fff565dd",
         "editorGroup.border": "#2c2c28",
@@ -207,6 +209,7 @@
                 "keyword.function",
                 "variable.language.this",
                 "keyword.operator.logical",
+                "keyword.operator.ternary",
                 "keyword.operator.constructor"
             ],
             "settings": {

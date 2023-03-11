@@ -2,7 +2,9 @@
 
 # 0.4.5
 
-- Fix Rust syntax colors
+- Fixed Rust syntax colors
+- Fixed string interpolation
+- Tweaked matching bracket colors
 
 # 0.4.4
 

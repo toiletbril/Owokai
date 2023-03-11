@@ -34,6 +34,8 @@
     "editorBracketHighlight.foreground3": "#B48EAD",
     "editorBracketHighlight.foreground4": "#D08770",
     "editorBracketHighlight.foreground5": "#A3BE8C",
+    "editorBracketMatch.border": "#ad7aff7a",
+    "editorBracketMatch.background": "#ad7aff40",
     "editorCursor.background": "#0e0e0e",
     "editorCursor.foreground": "#fdf146bb",
     "editorGroup.border": "#242424",
@@ -214,9 +216,9 @@
         "punctuation.section.embedded.end.erb",
         "punctuation.section.embedded.end.js",
         "support.type.property-name.json",
-        "constant.other.placeholder",
         "storage.modifier.package",
         "storage.modifier.import",
+        "variable.other.readwrite",
         "source.elixir.embedded",
         "variable.other.local",
         "variable.other.rust",
@@ -284,15 +286,17 @@
         "keyword.import",
         "keyword.package",
         "keyword.function",
-        "keyword.operator",
         "entity.name.tag.css",
         "storage.type.function",
         "variable.language.this",
+        "keyword.operator.ternary",
         "storage.type.annotation",
+        "keyword.operator.logical",
         "keyword.operator.constructor"
       ],
       "settings": {
-        "foreground": "#77c4ff",
+        "foreground": "#7bbaeb",
+        "fontStyle": "bold"
       }
     },
     {
@@ -326,6 +330,7 @@
         "entity.name.tag",
         "entity.name.tag.class.js",
         "entity.name.function-call",
+        "constant.other.placeholder",
         "storage.modifier.reference",
         "entity.other.inherited-class.java",
       ],
