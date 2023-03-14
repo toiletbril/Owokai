@@ -1,5 +1,10 @@
 # Change Log
 
+# 0.4.6
+
+Owokai
+- Ruined colors
+
 # 0.4.5
 
 - Tweaked matching bracket colors
