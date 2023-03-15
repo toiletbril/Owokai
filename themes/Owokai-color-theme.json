@@ -210,7 +210,8 @@
                 "variable.language.this",
                 "keyword.operator.logical",
                 "keyword.operator.ternary",
-                "keyword.operator.constructor"
+                "keyword.operator.constructor",
+                "variable.language.special.self"
             ],
             "settings": {
                 "foreground": "#cdbe55",

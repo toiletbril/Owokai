@@ -292,7 +292,8 @@
         "keyword.operator.ternary",
         "storage.type.annotation",
         "keyword.operator.logical",
-        "keyword.operator.constructor"
+        "keyword.operator.constructor",
+        "variable.language.special.self"
       ],
       "settings": {
         "foreground": "#7bbaeb",
