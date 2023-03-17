@@ -327,6 +327,7 @@
         "keyword.var",
         "storage.type",
         "support.type",
+        "keyword.codetag",
         "keyword.type.cs",
         "entity.name.tag",
         "entity.name.tag.class.js",
