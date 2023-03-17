@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.4.8
+
+Owokai
+- Further ruined colors
+- Made tabs clearer
+
 # 0.4.6
 
 Owokai
