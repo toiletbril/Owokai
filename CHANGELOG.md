@@ -2,8 +2,10 @@
 
 # 0.5.0
 
+- Ravaged most hover colors
+
 Owokai
-- Wrecked hover and search highlight colors
+- Wrecked search highlight colors
 
 Owokai Alt
 - Syntax is now github
