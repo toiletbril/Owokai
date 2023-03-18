@@ -1,5 +1,10 @@
 # Change Log
 
+# 0.4.9
+
+Owokai Alt
+- Syntax colors are now github syntax colors : - )
+
 # 0.4.8
 
 Owokai
