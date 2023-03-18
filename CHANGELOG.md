@@ -1,9 +1,13 @@
 # Change Log
 
-# 0.4.9
+# 0.5.0
+
+Owokai
+- Wrecked hover and search highlight colors
 
 Owokai Alt
-- Syntax colors are now github syntax colors : - )
+- Syntax is now github
+- Destroyed contrast
 
 # 0.4.8
 
