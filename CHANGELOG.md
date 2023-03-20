@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.5.4
+
+Owokai
+- Made editor colors way more yellow
+- Made syntax colors way more yellow
+
 # 0.5.0
 
 - Ravaged most hover colors
