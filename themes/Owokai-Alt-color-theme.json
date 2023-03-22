@@ -55,7 +55,7 @@
     "editorIndentGuide.activeBackground": "#41454730",
     "editorIndentGuide.background": "#41434730",
     "editorInlayHint.background": "#22262800",
-    "editorInlayHint.foreground": "#5a717b",
+    "editorInlayHint.foreground": "#444c50",
     "editorLineNumber.activeForeground": "#ff8181",
     "editorLineNumber.foreground": "#636668",
     "editorSuggestWidget.background": "#1c1e1fd0",

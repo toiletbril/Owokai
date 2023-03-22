@@ -1,5 +1,9 @@
 # Change Log
 
+# 0.5.5
+
+- Made inlay hints more subtle
+
 # 0.5.4
 
 Owokai
