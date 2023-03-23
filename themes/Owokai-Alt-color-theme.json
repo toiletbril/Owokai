@@ -25,7 +25,7 @@
     "editor.findMatchHighlightBackground": "#9a70da4b",
     "editor.findMatchHighlightBorder": "#c182eecc",
     "editor.foreground": "#c7ced6",
-    "editor.lineHighlightBackground": "#8d8ea210",
+    "editor.lineHighlightBackground": "#252729",
     "editor.lineHighlightBorder": "#16161600",
     "editor.rangeHighlightBackground": "#3c3e2010",
     "editor.selectionBackground": "#78819475",
@@ -293,7 +293,7 @@
     {
       "scope": "carriage-return",
       "settings": {
-        "fontStyle": "italic underline",
+        "fontStyle": "italic",
         "foreground": "#24292e"
       }
     },
@@ -396,7 +396,7 @@
         "markup.underline"
       ],
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": "italic"
       }
     },
     {
