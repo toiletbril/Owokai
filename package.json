@@ -24,9 +24,9 @@
 				"path": "./themes/Owokai-color-theme.json"
 			},
 			{
-				"label": "Owokai Legacy",
+				"label": "Owokai Hard",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Owokai-Legacy-color-theme.json"
+				"path": "./themes/Owokai-Hard-color-theme.json"
 			}
 		]
 	},

@@ -1,5 +1,5 @@
 {
-    "name": "Owokai Legacy",
+    "name": "Owokai Hard",
     "type": "dark",
     "colors": {
         "activityBar.background": "#20201f",
@@ -16,7 +16,7 @@
         "diffEditor.insertedTextBackground": "#2386364d",
         "diffEditor.removedLineBackground": "#da363333",
         "diffEditor.removedTextBackground": "#da36334d",
-        "dropdown.background": "#20201f",
+        "dropdown.background": "#292928",
         "dropdown.listBackground": "#20201f",
         "editor.background": "#171716",
         "editor.findMatchBackground": "#d7da8600",
@@ -93,9 +93,9 @@
         "scrollbar.shadow": "#000000aa",
         "scrollbarSlider.background": "#33352d90",
         "selection.background": "#8d918780",
-        "settings.checkboxBackground": "#232420",
-        "settings.focusedRowBackground": "#171716",
-        "settings.rowHoverBackground": "#171716",
+        "settings.checkboxBackground": "#2b2c27",
+        "settings.focusedRowBackground": "#1d1d1c",
+        "settings.rowHoverBackground": "#00000000",
         "sideBar.background": "#20201f",
         "sideBar.border": "#2c2c2a",
         "sideBarSectionHeader.background": "#20201f",
