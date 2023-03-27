@@ -23,10 +23,10 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/Owokai-color-theme.json"
 			},
-			{
-				"label": "Owokai Alt",
+{
+				"label": "Owokai Legacy",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Owokai-Alt-color-theme.json"
+				"path": "./themes/Owokai-Legacy-color-theme.json"
 			}
 		]
 	},
