@@ -8,7 +8,7 @@
 		"url": "https://github.com/toiletbril/Owokai.git"
 	},
 	"description": "Creamy :3",
-	"version": "0.5.7",
+	"version": "0.5.8",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.74.0"
@@ -23,7 +23,7 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/Owokai-color-theme.json"
 			},
-{
+			{
 				"label": "Owokai Legacy",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Owokai-Legacy-color-theme.json"
