@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.5.7
+
+Owokai
+- Made backgrounds more yellow
+- Tweaked colors to match new backgrounds
+
 # 0.5.5
 
 - Made inlay hints more subtle
