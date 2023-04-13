@@ -25,8 +25,8 @@
         "editor.findMatchHighlightBorder": "#d9da86aa",
         "editor.foreground": "#d1cfbc",
         "editor.hoverHighlightBackground": "#ffc40010",
-        "editor.lineHighlightBackground": "#22221f",
-        "editor.selectionBackground": "#3368a380",
+        "editor.lineHighlightBackground": "#252522",
+        "editor.selectionBackground": "#337fa380",
         "editor.selectionHighlightBackground": "#00000000",
         "editor.selectionHighlightBorder": "#a0956550",
         "editor.wordHighlightBackground": "#76724a10",
@@ -179,14 +179,14 @@
                 "string.template",
             ],
             "settings": {
-                "foreground": "#65b159"
+                "foreground": "#5caf4f"
             }
         },
         {
             "name": "String Quotes",
             "scope": "punctuation.definition.string",
             "settings": {
-                "foreground": "#65b159",
+                "foreground": "#5caf4f",
             }
         },
         {
@@ -232,7 +232,7 @@
                 "variable.language.special.self"
             ],
             "settings": {
-                "foreground": "#cfb645",
+                "foreground": "#cfa345",
                 "fontStyle": "bold"
             }
         },
@@ -242,7 +242,7 @@
                 "keyword.control"
             ],
             "settings": {
-                "foreground": "#cfb645",
+                "foreground": "#cfa345",
                 "fontStyle": "bold"
             }
         },
@@ -305,6 +305,7 @@
             "scope": [
                 "storage.type",
                 "entity.name.tag",
+                "support.function.magic",
                 "storage.type.namespace",
                 "entity.name.tag.class.js",
                 "constant.other.placeholder",
@@ -370,20 +371,13 @@
             "name": "Function name",
             "scope": [
                 "support.function",
-                "meta.function.definition"
-            ],
-            "settings": {
-                "foreground": "#d1cfbc",
-            }
-        },
-        {
-            "name": "Function call",
-            "scope": [
                 "meta.function.call",
-                "entity.name.function-call"
+                "meta.function.definition",
+                "entity.name.function-call",
+                "meta.function-call.generic"
             ],
             "settings": {
-                "foreground": "#d1cfbc",
+                "foreground": "#d88299",
             }
         },
         {

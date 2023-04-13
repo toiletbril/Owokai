@@ -1,5 +1,15 @@
 # Change Log
 
+# 0.6.1
+
+- Only one theme remains
+
+Owokai
+- Added color to function calls
+- Made line highlighting lighter
+- Made some syntax colors lighter and yellower
+- Convinced myself not to use Vim once for one last time
+
 # 0.5.7
 
 Owokai
