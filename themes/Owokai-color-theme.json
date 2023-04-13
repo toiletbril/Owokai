@@ -232,7 +232,7 @@
                 "variable.language.special.self"
             ],
             "settings": {
-                "foreground": "#cfa345",
+                "foreground": "#dbad49",
                 "fontStyle": "bold"
             }
         },
@@ -242,7 +242,7 @@
                 "keyword.control"
             ],
             "settings": {
-                "foreground": "#cfa345",
+                "foreground": "#dbad49",
                 "fontStyle": "bold"
             }
         },
