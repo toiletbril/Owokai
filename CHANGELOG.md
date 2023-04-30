@@ -1,5 +1,16 @@
 # Change Log
 
+# 0.6.3
+
+- Alt is back
+
+Owokai Alt
+- Restored github colors
+
+Owokai
+- Fixed `in` operator in some languages
+- Fixed JS/TS template expression invalid coloring
+
 # 0.6.1
 
 - Only one theme remains
