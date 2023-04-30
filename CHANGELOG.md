@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.6.5
+
+Owokai
+- New cool terminal colors
+- Background is now slightly brighter
+
 # 0.6.3
 
 - Alt is back
