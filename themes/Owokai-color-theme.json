@@ -19,6 +19,7 @@
         "dropdown.background": "#252421",
         "dropdown.listBackground": "#252421",
         "editor.background": "#1c1c1a",
+        "editor.foldBackground": "#20201e",
         "editor.findMatchBackground": "#00000000",
         "editor.findMatchBorder": "#efefef90",
         "editor.findMatchHighlightBackground": "#d7da8620",
@@ -204,6 +205,7 @@
                 "punctuation.section.embedded.end.erb",
                 "punctuation.section.embedded.end.js",
                 "storage.modifier.package",
+                "meta.template.expression",
                 "storage.modifier.import",
                 "source.elixir.embedded",
                 "support.constant",
@@ -225,6 +227,7 @@
                 "keyword.import",
                 "keyword.package",
                 "keyword.function",
+                "keyword.operator.in",
                 "variable.language.this",
                 "keyword.operator.logical",
                 "keyword.operator.ternary",
@@ -309,8 +312,10 @@
                 "storage.type.namespace",
                 "entity.name.tag.class.js",
                 "constant.other.placeholder",
+                "entity.name.scope-resolution",
                 "entity.other.inherited-class.java",
-                "punctuation.definition.interpolation"
+                "punctuation.definition.interpolation",
+                "punctuation.definition.template-expression"
             ],
             "settings": {
                 "foreground": "#8f8d88",
@@ -372,12 +377,11 @@
             "scope": [
                 "support.function",
                 "meta.function.call",
-                "meta.function.definition",
                 "entity.name.function-call",
                 "meta.function-call.generic"
             ],
             "settings": {
-                "foreground": "#d88299",
+                "foreground": "#df829b",
             }
         },
         {
