@@ -1,5 +1,15 @@
 # Change Log
 
+# 0.6.8
+
+Owokai
+- Fixed some syntax colors for C++
+
+Owokai Hard
+- Tweaked backgrounds
+- Tweaked terminal colors
+- Adjusted selection colors
+
 # 0.6.5
 
 Owokai
