@@ -378,6 +378,7 @@
                 "support.function",
                 "meta.function.call",
                 "meta.function-call",
+                "keyword.operator.delete",
                 "entity.name.function-call",
                 "meta.function-call.generic"
             ],
