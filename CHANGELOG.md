@@ -1,5 +1,10 @@
 # Change Log
 
+# 0.7.0
+
+- Tweaked panel background colors
+- Tweaked peek view colors and borders
+
 # 0.6.8
 
 Owokai
