@@ -205,6 +205,7 @@
                 "punctuation.section.embedded.begin.js",
                 "punctuation.section.embedded.end.erb",
                 "punctuation.section.embedded.end.js",
+                "meta.function-call.arguments",
                 "storage.modifier.package",
                 "meta.template.expression",
                 "storage.modifier.import",

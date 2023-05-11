@@ -1,5 +1,13 @@
 # Change Log
 
+# 0.7.1
+
+Owokai Hard
+- Made selection border brighter
+
+Owokai
+- Fixed colors of function arguments in Python
+
 # 0.7.0
 
 - Tweaked panel background colors
@@ -17,16 +25,18 @@ Owokai Hard
 
 # 0.6.5
 
+- Added Owokai Hard back
+
 Owokai
 - New cool terminal colors
 - Background is now slightly brighter
 
 # 0.6.3
 
-- Alt is back
+- Added Alt back
 
 Owokai Alt
-- Restored github colors
+- Restored Github colors
 
 Owokai
 - Fixed `in` operator in some languages
@@ -34,13 +44,13 @@ Owokai
 
 # 0.6.1
 
-- Only one theme remains
+- Removed Alt in a fit of rage
+- Convinced myself not to use Vim for one last time
 
 Owokai
 - Added color to function calls
 - Made line highlighting lighter
 - Made some syntax colors lighter and yellower
-- Convinced myself not to use Vim for one last time
 
 # 0.5.7
 
@@ -66,13 +76,13 @@ Owokai
 - Wrecked search highlight colors
 
 Owokai Alt
-- Syntax is now github
+- Changed syntax colors to Github's
 - Destroyed contrast
 
 # 0.4.8
 
 Owokai
-- Further ruined colors
+- Ruined colors further
 - Made tabs clearer
 
 # 0.4.6
@@ -97,12 +107,12 @@ Owokai Alt
 - Improved [custom.css](./custom.css)
 
 Owokai
-- Revert some border changes
+- Reverted some border changes
 
 # 0.4.0
 
-- Tweak borders
-- Tweak badge colors
+- Tweaked borders
+- Tweaked badge colors
 - Added secret [custom.css](./custom.css) (see [README.md](./README.md#experimental-custom-css))
 
 # 0.3.4
@@ -120,16 +130,16 @@ Owokai Alt
 # 0.3.0
 
 - More colors tweaks
-- Added preview pictures !!
+- Added preview pictures to Github
 
 # 0.2.7
 
-- Added borders
+- Added some borders
 
 # 0.2.6
 
-- Fixed HTML/CSS
-- Added Github repository
+- Created Github repository
+- Fixed HTML/CSS syntax colors
 
 # 0.2.5
 
@@ -137,54 +147,73 @@ Owokai Alt
 
 # 0.2.4
 
-- Complete `Alt` revamp
 - Fixes for Go and Rust syntax hightlighting
+
+Alt
+- Almost full revamp
 
 # 0.2.3
 
-- Tweaked `Alt` colors
 - Tweaked markup colors
 - Fixed borders
 
+Alt
+- Tweaked colors
+
 # 0.2.2
 
-- Newww `Alt` theme
+- New `Alt` theme
 - Tweaked menu colors
 
 # 0.2.1
 
-- This is now a material theme
+- Tweaked most of the borders.
 
 # 0.2.0
 
-- Minor changes to `LLC` contrast
 - `standart` and `LC` has been removed until I figure out how to make them less terrible. And since I have mostly used and tweaked `LLC`, probably not soon
+
+LLC
+- Minor changes to contrast
 - For reasons listed above, `LLC` is now the `standart` theme
 
 # 0.1.1
 
-- `LLC` is  more yellow and pretty
-- `LC` and `standart` are less redder
+LLC
+- Added more yellow colors
+
+LC, Standart
+- Made colors less red
 
 # 0.1.0
 
-- Fix selectors
-- `LC` now has 1 more color
-- `LLC` theme with almost no colors
-- `standart` now has more colors and no italics
+- Fixed selectors
+
+LC
+- Added 1 more color
+
+LLC
+- Removed some colors
+
+Standart
+- Added more colors and removed italics
 
 # 0.0.8
 
 - New menu colors
-- Markdown colors for `standart`
 - Add color names and reorder json
 
+Standart
+- Tweaked markdown colors
+
 # 0.0.6
-- Separate selections colors for themes
+- Changed selections colors
 
 # 0.0.4
-- Function parameter hints
-- `LC` theme now has less colors
+- Tweaked function parameter hints
+
+LC
+- Removed unnecessary colors
 
 # 0.0.1
 - Initial release
