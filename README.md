@@ -1,4 +1,4 @@
-<img src="https://github.com/toiletbril/Owokai/raw/HEAD/icon.png" width="96">
+<img src="./assets/icon.png" width="96">
 
 #  Owokai Themes
 
