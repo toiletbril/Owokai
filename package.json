@@ -2,7 +2,7 @@
 	"name": "owokai-theme",
 	"displayName": "Owokai Themes",
 	"publisher": "fluffyfen",
-	"icon": "icon.png",
+	"icon": "assets/icon.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/toiletbril/Owokai.git"
