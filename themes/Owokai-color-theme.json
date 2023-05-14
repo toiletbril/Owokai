@@ -225,14 +225,15 @@
                 "keyword.type",
                 "keyword.other",
                 "keyword.struct",
-                "keyword.control",
                 "keyword.import",
+                "keyword.control",
                 "keyword.package",
                 "keyword.function",
                 "keyword.operator.in",
                 "variable.language.this",
                 "keyword.operator.logical",
                 "keyword.operator.ternary",
+                "keyword.operator.wordlike",
                 "keyword.operator.constructor",
                 "variable.language.special.self"
             ],
@@ -284,14 +285,6 @@
             "scope": "variable.language",
             "settings": {
                 "foreground": "#d1cfbc"
-            }
-        },
-        {
-            "name": "Keyword Operator",
-            "scope": "keyword.operator",
-            "settings": {
-                "foreground": "#d1cfbc",
-                "fontStyle": ""
             }
         },
         {
@@ -380,7 +373,6 @@
                 "support.function",
                 "meta.function.call",
                 "meta.function-call",
-                "keyword.operator.delete",
                 "entity.name.function-call",
                 "meta.function-call.generic"
             ],

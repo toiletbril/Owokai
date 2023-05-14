@@ -209,11 +209,12 @@
                 "keyword.type",
                 "keyword.other",
                 "keyword.struct",
-                "keyword.control",
                 "keyword.import",
+                "keyword.control",
                 "keyword.package",
                 "keyword.function",
                 "keyword.operator.logical",
+                "keyword.operator.wordlike",
                 "keyword.operator.constructor"
             ],
             "settings": {
@@ -264,13 +265,6 @@
             "scope": "variable.language",
             "settings": {
                 "foreground": "#c5c5c5"
-            }
-        },
-        {
-            "name": "Keyword Operator",
-            "scope": "keyword.operator",
-            "settings": {
-                "foreground": "#c5c5c5",
             }
         },
         {
