@@ -42,14 +42,14 @@
         "editorBracketMatch.background": "#5b73d490",
         "editorBracketMatch.border": "#5b73d440",
         "editorCursor.background": "#0e0e0e",
-        "editorCursor.foreground": "#f8ef70dd",
+        "editorCursor.foreground": "#e6c326dd",
         "editorGroup.border": "#30302a",
         "editorGroup.dropBackground": "#43413980",
         "editorGroupHeader.tabsBackground": "#252421",
         "editorGroupHeader.tabsBorder": "#343530",
         "editorHoverWidget.background": "#272822ee",
         "editorHoverWidget.border": "#343530ee",
-        "editorIndentGuide.activeBackground": "#47454130",
+        "editorIndentGuide.activeBackground": "#57504360",
         "editorIndentGuide.background": "#47454130",
         "editorInlayHint.background": "#bebaa0",
         "editorInlayHint.foreground": "#1c1c1a",
@@ -162,6 +162,17 @@
             ],
             "settings": {
                 "foreground": "#7b785a",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Documentation",
+            "scope": [
+                "comment.block.documentation",
+                "comment.line.double-slash.documentation"
+            ],
+            "settings": {
+                "foreground": "#ad9556",
                 "fontStyle": "italic"
             }
         },

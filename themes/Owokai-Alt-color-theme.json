@@ -52,7 +52,7 @@
         "editorGutter.modifiedBackground": "#0078d4",
         "editorHoverWidget.background": "#222728ee",
         "editorHoverWidget.border": "#333333",
-        "editorIndentGuide.activeBackground": "#41454730",
+        "editorIndentGuide.activeBackground": "#786b8570",
         "editorIndentGuide.background": "#41434730",
         "editorInlayHint.background": "#22262800",
         "editorInlayHint.foreground": "#444c50",
@@ -62,7 +62,7 @@
         "editorSuggestWidget.border": "#383737",
         "editorUnnecessaryCode.border": "#ffd900",
         "editorUnnecessaryCode.opacity": "#000000aa",
-        "editorWhitespace.foreground": "#41454760",
+        "editorWhitespace.foreground": "#41454790",
         "editorWidget.background": "#252729",
         "editorWidget.resizeBorder": "#00000000",
         "focusBorder": "#5c4088",
@@ -164,11 +164,22 @@
         {
             "scope": [
                 "comment",
-                "punctuation.definition.comment",
                 "string.comment"
             ],
             "settings": {
-                "foreground": "#6a737d",
+                "foreground": "#717a85",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "Documentation",
+            "scope": [
+                "comment.block.documentation",
+                "punctiation.definition.comment",
+                "comment.line.double-slash.documentation"
+            ],
+            "settings": {
+                "foreground": "#90a3aa",
                 "fontStyle": "italic"
             }
         },

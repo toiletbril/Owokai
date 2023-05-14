@@ -39,7 +39,7 @@
         "editorBracketMatch.background": "#5a74eb90",
         "editorBracketMatch.border": "#5a74eb40",
         "editorCursor.background": "#0e0e0e",
-        "editorCursor.foreground": "#fff565bb",
+        "editorCursor.foreground": "#fff565aa",
         "editorGroup.border": "#2c2c2a",
         "editorGroup.dropBackground": "#43413980",
         "editorGroupHeader.tabsBackground": "#20201f",
@@ -56,7 +56,7 @@
         "editorSuggestWidget.border": "#75715e30",
         "editorUnnecessaryCode.border": "#ffd900",
         "editorUnnecessaryCode.opacity": "#000000aa",
-        "editorWhitespace.foreground": "#46474160",
+        "editorWhitespace.foreground": "#464741aa",
         "editorWidget.background": "#20201f",
         "editorWidget.resizeBorder": "#00000000",
         "focusBorder": "#525244",
@@ -156,7 +156,7 @@
                 "string.comment"
             ],
             "settings": {
-                "foreground": "#7b785a",
+                "foreground": "#a38d5e",
                 "fontStyle": "italic"
             }
         },

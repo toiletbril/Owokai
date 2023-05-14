@@ -1,5 +1,22 @@
 # Change Log
 
+# 0.7.3
+
+- Made comments color slightly brighter
+- Tweaked colors of active indentation lines
+
+Owokai
+- Made cursor color more saturated
+
+Owokai Hard
+- Made whitespaces brighter
+- Made comments color significantly brighter
+
+# 0.7.2
+
+Owokai, Owokai Hard
+- Fixed C++ operators' syntax again
+
 # 0.7.1
 
 Owokai Hard
@@ -82,8 +99,8 @@ Owokai Alt
 # 0.4.8
 
 Owokai
-- Ruined colors further
 - Made tabs clearer
+- Ruined colors more
 
 # 0.4.6
 
@@ -117,11 +134,11 @@ Owokai
 
 # 0.3.4
 
-- Fixed statusbar colors
 - Fixed foregrounds
-- Fixed button backgrounds
 - Sorted JSON files
 - Added marketplace icon
+- Fixed statusbar colors
+- Fixed button backgrounds
 
 Owokai Alt
 - Tweaked `gitDecoration`
