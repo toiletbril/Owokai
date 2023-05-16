@@ -39,7 +39,7 @@
         "editorBracketMatch.background": "#5a74eb90",
         "editorBracketMatch.border": "#5a74eb40",
         "editorCursor.background": "#0e0e0e",
-        "editorCursor.foreground": "#fff34abb",
+        "editorCursor.foreground": "#fffc35bb",
         "editorGroup.border": "#2c2c2a",
         "editorGroup.dropBackground": "#43413980",
         "editorGroupHeader.tabsBackground": "#20201f",
@@ -167,14 +167,14 @@
                 "string.template",
             ],
             "settings": {
-                "foreground": "#46b354"
+                "foreground": "#4ea85a"
             }
         },
         {
             "name": "String Quotes",
             "scope": "punctuation.definition.string",
             "settings": {
-                "foreground": "#46b354",
+                "foreground": "#4ea85a",
             }
         },
         {
