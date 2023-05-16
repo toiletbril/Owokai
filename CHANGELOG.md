@@ -1,5 +1,12 @@
 # Change Log
 
+# 0.7.6
+
+- Made cursors brighter and more saturated
+
+Owokai
+- Made some syntax colors more blue
+
 # 0.7.3
 
 - Made comments color slightly brighter
