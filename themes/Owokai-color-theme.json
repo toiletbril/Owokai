@@ -24,7 +24,7 @@
         "editor.findMatchHighlightBackground": "#d7da8620",
         "editor.findMatchHighlightBorder": "#d9da86aa",
         "editor.foldBackground": "#272727",
-        "editor.foreground": "#d1cfbc",
+        "editor.foreground": "#dfddca",
         "editor.hoverHighlightBackground": "#ffc40010",
         "editor.lineHighlightBackground": "#252522",
         "editor.selectionBackground": "#337fa380",
@@ -34,7 +34,7 @@
         "editor.wordHighlightBorder": "#766e4a90",
         "editor.wordHighlightStrongBackground": "#968c6a20",
         "editor.wordHighlightTextBackground": "#fbff0010",
-        "editorBracketHighlight.foreground1": "#d1cfbc",
+        "editorBracketHighlight.foreground1": "#dfddca",
         "editorBracketHighlight.foreground2": "#EBCB8B",
         "editorBracketHighlight.foreground3": "#B48EAD",
         "editorBracketHighlight.foreground4": "#D08770",
@@ -76,7 +76,7 @@
         "list.hoverBackground": "#33332c",
         "list.inactiveSelectionBackground": "#2f3028",
         "menu.background": "#252421",
-        "menu.foreground": "#d1cfbc",
+        "menu.foreground": "#dfddca",
         "minimap.selectionHighlight": "#878b9180",
         "panel.background": "#1B1B1B",
         "panel.border": "#33332d",
@@ -151,7 +151,7 @@
             "name": "Nothing",
             "scope": "",
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -227,7 +227,7 @@
                 "text",
             ],
             "settings": {
-                "foreground": "#d1cfbc",
+                "foreground": "#dfddca",
             }
         },
         {
@@ -288,14 +288,14 @@
                 "constant.other",
             ],
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
             "name": "Language Variable",
             "scope": "variable.language",
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -357,7 +357,7 @@
                 "variable.other.readwrite.batchfile",
             ],
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -368,14 +368,14 @@
                 "variable.other.property"
             ],
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
             "name": "Inherited Class",
             "scope": "entity.other.inherited-class",
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -388,7 +388,7 @@
                 "meta.function-call.generic"
             ],
             "settings": {
-                "foreground": "#d88aad",
+                "foreground": "#db8db0",
             }
         },
         {
@@ -399,7 +399,7 @@
                 "parameter.variable"
             ],
             "settings": {
-                "foreground": "#d1cfbc",
+                "foreground": "#dfddca",
             }
         },
         {
@@ -409,7 +409,7 @@
                 "function.support.builtin"
             ],
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -423,7 +423,7 @@
             "name": "JSON String",
             "scope": "support.type.property-name.json",
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -495,7 +495,7 @@
                 "punctuation.definition.heading.markdown",
             ],
             "settings": {
-                "foreground": "#d1cfbc"
+                "foreground": "#dfddca"
             }
         },
         {
@@ -506,7 +506,7 @@
                 "punctuation.terminator"
             ],
             "settings": {
-                "foreground": "#d1cfbc",
+                "foreground": "#dfddca",
             }
         },
         {

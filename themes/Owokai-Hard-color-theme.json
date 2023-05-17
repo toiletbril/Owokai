@@ -286,6 +286,7 @@
                 "storage.type.namespace",
                 "entity.name.tag.class.js",
                 "constant.other.placeholder",
+                "entity.name.scope-resolution", 
                 "entity.other.inherited-class.java",
                 "punctuation.definition.interpolation"
             ],
