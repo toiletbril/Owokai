@@ -1,5 +1,10 @@
 # Change Log
 
+# 0.7.8
+
+Owokai, Owokai Hard
+- Made syntax and foreground colors brighter
+
 # 0.7.6
 
 - Made cursors brighter and more saturated
