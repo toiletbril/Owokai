@@ -8,7 +8,7 @@
 		"url": "https://github.com/toiletbril/Owokai.git"
 	},
 	"description": ":3c",
-	"version": "0.7.7",
+	"version": "0.7.8",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.74.0"
