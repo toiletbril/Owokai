@@ -4,7 +4,7 @@
     "colors": {
         "activityBar.background": "#20201f",
         "activityBar.border": "#2c2c2a",
-        "activityBar.foreground": "#d4d4d4",
+        "activityBar.foreground": "#dddddd",
         "activityBarBadge.background": "#76480d",
         "activityBarBadge.foreground": "#ddded2",
         "badge.background": "#20201f",
@@ -18,20 +18,20 @@
         "diffEditor.removedTextBackground": "#da36334d",
         "dropdown.background": "#292928",
         "dropdown.listBackground": "#20201f",
-        "editor.background": "#181818",
+        "editor.background": "#191919",
         "editor.findMatchBackground": "#d7da8600",
         "editor.findMatchBorder": "#efefef90",
         "editor.findMatchHighlightBackground": "#d7da8620",
         "editor.findMatchHighlightBorder": "#d9da86aa",
         "editor.foldBackground": "#1f1f1f",
-        "editor.foreground": "#d4d4d4",
+        "editor.foreground": "#dddddd",
         "editor.lineHighlightBackground": "#1d1d1c",
         "editor.selectionBackground": "#386ac580",
         "editor.selectionHighlightBackground": "#00000000",
         "editor.selectionHighlightBorder": "#6588a050",
         "editor.wordHighlightBackground": "#4a4a7680",
         "editor.wordHighlightStrongBackground": "#6a6a9680",
-        "editorBracketHighlight.foreground1": "#d4d4d4",
+        "editorBracketHighlight.foreground1": "#dddddd",
         "editorBracketHighlight.foreground2": "#EBCB8B",
         "editorBracketHighlight.foreground3": "#B48EAD",
         "editorBracketHighlight.foreground4": "#D08770",
@@ -73,7 +73,7 @@
         "list.hoverBackground": "#2b2c27",
         "list.inactiveSelectionBackground": "#32332b",
         "menu.background": "#20201f",
-        "menu.foreground": "#d4d4d4",
+        "menu.foreground": "#dddddd",
         "minimap.selectionHighlight": "#878b9180",
         "panel.background": "#181818",
         "panel.border": "#2c2c2a",
@@ -146,42 +146,22 @@
             "name": "Nothing",
             "scope": "",
             "settings": {
-                "foreground": "#d4d4d4"
+                "foreground": "#dddddd"
             }
         },
         {
-            "name": "Comment",
+            "name": "General Punctuation",
             "scope": [
-                "comment",
-                "string.comment"
+                "punctuation.comment",
+                "punctuation.accessor",
+                "punctuation.separator",
+                "punctuation.terminator",
+                "punctuation.definition.bold.markdown",
+                "punctuation.definition.italic.markdown",
+                "punctuation.definition.heading.markdown",
             ],
             "settings": {
-                "foreground": "#a38d5e",
-                "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "String",
-            "scope": [
-                "string",
-                "string.template",
-            ],
-            "settings": {
-                "foreground": "#4bbb5a"
-            }
-        },
-        {
-            "name": "String Quotes",
-            "scope": "punctuation.definition.string",
-            "settings": {
-                "foreground": "#4bbb5a",
-            }
-        },
-        {
-            "name": "Number",
-            "scope": "constant.numeric",
-            "settings": {
-                "foreground": "#819fd7"
+                "foreground": "#dddddd"
             }
         },
         {
@@ -200,7 +180,108 @@
                 "text",
             ],
             "settings": {
-                "foreground": "#d4d4d4",
+                "foreground": "#dddddd",
+            }
+        },
+        {
+            "name": "User-defined constant",
+            "scope": [
+                "constant.character",
+                "variable.language",
+                "constant.other",
+            ],
+            "settings": {
+                "foreground": "#dddddd"
+            }
+        },
+        {
+            "name": "Variable Object",
+            "scope": [
+                "variable.readwrite",
+                "variable.other.object",
+                "variable.other.global",
+                "variable.other.constant",
+                "entity.other.attribute-name",
+                "entity.other.inherited-class",
+                "variable.readwrite.other.block",
+                "variable.other.readwrite.class",
+                "variable.other.readwrite.instance",
+                "variable.other.readwrite.batchfile",
+            ],
+            "settings": {
+                "foreground": "#dddddd"
+            }
+        },
+        {
+            "name": "Other variable",
+            "scope": [
+                "variable.other",
+                "variable.other.block",
+                "variable.other.property"
+            ],
+            "settings": {
+                "foreground": "#dddddd"
+            }
+        },
+        {
+            "name": "Function call",
+            "scope": [
+                "support.function",
+                "meta.function.call",
+                "function.support.core",
+                "function.support.builtin",
+                "meta.function.definition",
+                "entity.name.function-call"
+            ],
+            "settings": {
+                "foreground": "#dddddd",
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": [
+                "variable.parameter",
+                "entity.name.variable.parameter",
+                "parameter.variable"
+            ],
+            "settings": {
+                "foreground": "#dddddd",
+            }
+        },
+        {
+            "name": "JSON String",
+            "scope": "support.type.property-name.json",
+            "settings": {
+                "foreground": "#dddddd"
+            }
+        },
+        {
+            "name": "Comment",
+            "scope": [
+                "comment",
+                "string.comment"
+            ],
+            "settings": {
+                "foreground": "#af9661",
+                "fontStyle": "italic"
+            }
+        },
+        {
+            "name": "String",
+            "scope": [
+                "string",
+                "string.template",
+                "punctuation.definition.string",
+            ],
+            "settings": {
+                "foreground": "#4bbb5a"
+            }
+        },
+        {
+            "name": "Number",
+            "scope": "constant.numeric",
+            "settings": {
+                "foreground": "#6a95e6"
             }
         },
         {
@@ -211,6 +292,7 @@
                 "keyword.struct",
                 "keyword.import",
                 "keyword.control",
+                "keyword.control",
                 "keyword.package",
                 "keyword.function",
                 "keyword.operator.logical",
@@ -218,17 +300,7 @@
                 "keyword.operator.constructor"
             ],
             "settings": {
-                "foreground": "#cdbb55",
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "name": "Keyword control",
-            "scope": [
-                "keyword.control"
-            ],
-            "settings": {
-                "foreground": "#cdbb55",
+                "foreground": "#d8c55a",
                 "fontStyle": "bold"
             }
         },
@@ -247,51 +319,27 @@
                 "constant.language"
             ],
             "settings": {
-                "foreground": "#919191",
-            }
-        },
-        {
-            "name": "User-defined constant",
-            "scope": [
-                "constant.character",
-                "constant.other",
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Language Variable",
-            "scope": "variable.language",
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Storage",
-            "scope": [
-                "storage.modifier",
-                "storage.type.class",
-                "storage.type.modifier.access"
-            ],
-            "settings": {
-                "foreground": "#919191",
+                "foreground": "#939799",
             }
         },
         {
             "name": "Types",
             "scope": [
+                "support",
                 "storage.type",
                 "entity.name.tag",
+                "storage.modifier",
+                "storage.type.class",
                 "storage.type.namespace",
                 "entity.name.tag.class.js",
                 "constant.other.placeholder",
+                "storage.type.modifier.access",
                 "entity.name.scope-resolution",
                 "entity.other.inherited-class.java",
                 "punctuation.definition.interpolation"
             ],
             "settings": {
-                "foreground": "#919191",
+                "foreground": "#939799",
                 "fontStyle": ""
             }
         },
@@ -307,97 +355,7 @@
                 "entity.name.tag.class"
             ],
             "settings": {
-                "foreground": "#919191"
-            }
-        },
-        {
-            "name": "Variable Object",
-            "scope": [
-                "variable.readwrite",
-                "variable.other.object",
-                "variable.other.global",
-                "variable.other.constant",
-                "entity.other.attribute-name",
-                "variable.readwrite.other.block",
-                "variable.other.readwrite.class",
-                "variable.other.readwrite.instance",
-                "variable.other.readwrite.batchfile",
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Other variable",
-            "scope": [
-                "variable.other",
-                "variable.other.block",
-                "variable.other.property"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Inherited Class",
-            "scope": "entity.other.inherited-class",
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Function name",
-            "scope": [
-                "support.function",
-                "meta.function.definition"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4",
-            }
-        },
-        {
-            "name": "Function call",
-            "scope": [
-                "meta.function.call",
-                "entity.name.function-call"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4",
-            }
-        },
-        {
-            "name": "Function argument",
-            "scope": [
-                "variable.parameter",
-                "entity.name.variable.parameter",
-                "parameter.variable"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4",
-            }
-        },
-        {
-            "name": "Builtin Functions",
-            "scope": [
-                "function.support.core",
-                "function.support.builtin"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Library",
-            "scope": "support",
-            "settings": {
-                "foreground": "#919191"
-            }
-        },
-        {
-            "name": "JSON String",
-            "scope": "support.type.property-name.json",
-            "settings": {
-                "foreground": "#d4d4d4"
+                "foreground": "#939799"
             }
         },
         {
@@ -461,29 +419,6 @@
             }
         },
         {
-            "name": "General Punctuation",
-            "scope": [
-                "punctuation.comment",
-                "punctuation.definition.bold.markdown",
-                "punctuation.definition.italic.markdown",
-                "punctuation.definition.heading.markdown",
-            ],
-            "settings": {
-                "foreground": "#d4d4d4"
-            }
-        },
-        {
-            "name": "Dots and commas",
-            "scope": [
-                "punctuation.accessor",
-                "punctuation.separator",
-                "punctuation.terminator"
-            ],
-            "settings": {
-                "foreground": "#d4d4d4",
-            }
-        },
-        {
             "name": "Markup: Bold",
             "scope": "markup.bold",
             "settings": {
@@ -518,7 +453,7 @@
                 "markup.inline.raw"
             ],
             "settings": {
-                "foreground": "#919191"
+                "foreground": "#939799"
             }
         }
     ],
