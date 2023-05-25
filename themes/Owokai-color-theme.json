@@ -378,8 +378,10 @@
                 "support.function",
                 "meta.function.call",
                 "meta.function-call",
+                "entity.name.function.call",
                 "entity.name.function-call",
-                "meta.function-call.generic"
+                "meta.function-call.generic",
+                "entity.name.function.definition"
             ],
             "settings": {
                 "foreground": "#e694b9",
