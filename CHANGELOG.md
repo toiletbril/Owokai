@@ -1,5 +1,14 @@
 # Change Log
 
+# 0.8.2
+
+Owokai Alt
+- Made background darker
+- Changed color of cursor and line numbers
+
+Owokai, Owokai Alt
+- Made sidebar background match editor background color
+
 # 0.7.9
 
 Owokai, Owokai Hard
