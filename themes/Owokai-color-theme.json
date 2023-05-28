@@ -32,6 +32,7 @@
         "editor.selectionHighlightBorder": "#a0956550",
         "editor.wordHighlightBackground": "#76724a10",
         "editor.wordHighlightBorder": "#766e4a90",
+        "editor.rangeHighlightBackground": "#3c3e2020",
         "editor.wordHighlightStrongBackground": "#968c6a20",
         "editor.wordHighlightTextBackground": "#fbff0010",
         "editorBracketHighlight.foreground1": "#ebe9d7",
