@@ -1,5 +1,11 @@
 # Change Log
 
+# 0.8.5
+
+Owokai, Owokai Alt
+- Changed selection colors
+- Made previous selection colors more crisp
+
 # 0.8.2
 
 Owokai Alt
