@@ -2,6 +2,10 @@
    font-family: Roboto, system-ui;
 }
 
+.monaco-editor .cursors-layer .cursor {
+   border-radius: 4px;
+}
+
 .monaco-editor .suggest-widget,
 .suggest-details,
 .monaco-hover,
