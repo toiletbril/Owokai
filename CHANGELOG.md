@@ -1,5 +1,16 @@
 # Change Log
 
+# 0.8.8
+
+- Minor color changes
+
+custom.css
+- Comments
+- Add rounding to the cursor
+
+Owokai Alt
+- Made cursor brighter
+
 # 0.8.5
 
 Owokai, Owokai Alt
