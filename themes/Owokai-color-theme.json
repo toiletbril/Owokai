@@ -374,6 +374,15 @@
             }
         },
         {
+            "scope":[
+                "meta.preprocessor.macro",
+                "entity.name.other.preprocessor.macro.predefined",
+            ],
+            "settings": {
+                "fontStyle": "bold",
+            }
+        },
+        {
             "name": "Function name",
             "scope": [
                 "support.function",

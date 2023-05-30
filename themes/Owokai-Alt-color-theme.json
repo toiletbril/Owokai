@@ -2,7 +2,7 @@
     "name": "Owokai",
     "type": "dark",
     "colors": {
-        "activityBar.background": "#252729",
+        "activityBar.background": "#181819",
         "activityBar.border": "#333333",
         "activityBar.foreground": "#b7b8bb",
         "activityBar.inactiveForeground": "#727272",

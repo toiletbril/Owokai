@@ -230,18 +230,18 @@
                 "meta.function.call",
                 "function.support.core",
                 "function.support.builtin",
-                "meta.function.definition",
                 "entity.name.function-call"
             ],
             "settings": {
                 "foreground": "#dddddd",
+                "fontStyle": "bold"
             }
         },
         {
             "name": "Function argument",
             "scope": [
-                "variable.parameter",
                 "entity.name.variable.parameter",
+                "variable.parameter",
                 "parameter.variable"
             ],
             "settings": {
