@@ -1,11 +1,15 @@
+/* nice workbench font */
+.windows,
 .linux {
-   font-family: Roboto, system-ui;
+   font-family: Roboto, Inter, system-ui;
 }
 
+/* rounded corners for cursor */
 .monaco-editor .cursors-layer .cursor {
-   border-radius: 4px;
+   border-radius: 2px;
 }
 
+/* rounded corners for notifications, widgets and suggestion popups */
 .monaco-editor .suggest-widget,
 .suggest-details,
 .monaco-hover,
@@ -15,15 +19,13 @@
    box-shadow: 0 0 15px 15px rgba(0, 0, 0, 0.1);
 }
 
+/* no rounding for find widget */
 .find-widget {
    border-radius: 0px;
 }
 
+/* rounded scroll sliders */
 .monaco-editor .monaco-list-row,
 .slider {
    border-radius: 4px;
-}
-
-.tab {
-   border-radius: 4px 4px 0 0;
 }
