@@ -75,10 +75,10 @@
         "menu.background": "#20201f",
         "menu.foreground": "#dddddd",
         "minimap.selectionHighlight": "#878b9180",
-        "panel.background": "#181818",
+        "panel.background": "#111111",
         "panel.border": "#2c2c2a",
         "panelSection.border": "#20201f",
-        "panelSectionHeader.background": "#20201f",
+        "panelSectionHeader.background": "#111111",
         "panelTitle.activeBorder": "#00000000",
         "panelTitle.activeForeground": "#c5c5c0",
         "panelTitle.inactiveForeground": "#75715E",
@@ -300,7 +300,7 @@
                 "keyword.operator.constructor"
             ],
             "settings": {
-                "foreground": "#d8c55a",
+                "foreground": "#d8b65a",
                 "fontStyle": "bold"
             }
         },

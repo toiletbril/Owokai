@@ -1,12 +1,21 @@
 # Change Log
 
+# 0.8.9
+
+Owokai Hard, Owokai
+- Made panel colors darker
+- Made terminal colors match panel colors
+
 # 0.8.8
 
 - Minor color changes
 
+Owokai Hard
+- Made function calls bold
+
 custom.css
 - Comments
-- Add rounding to the cursor
+- Added rounding to the cursor
 
 Owokai Alt
 - Made cursor brighter
