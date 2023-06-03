@@ -6,10 +6,10 @@ Originally a fork of Monokai theme, now a standalone theme pack :3c
 
 For update log, see [Changelog](https://github.com/toiletbril/Owokai/blob/HEAD/CHANGELOG.md).
 
-| Owokai                                      | Owokai Alt                                  |
-| ------------------------------------------- | ------------------------------------------- |
-| Small, yellow color palette                 | Extended, GitHub-ish colors                 |
-| <img src="assets/owokaipreview.png" width="500"> | <img src="assets/owokaialtpreview.png" width="500"> |
+| Owokai                                    | Owokai Hard                             | Owokai Alt                             |
+| :---------------------------------------- | :-------------------------------------- | :------------------------------------- |
+| Small, yellow and orange color palette    | Smaller, darker color pallette          | Extended, github-ish color palette     |
+| <img src="assets/owokai.png" width="500"> | <img src="assets/hard.png" width="500"> | <img src="assets/alt.png" width="500"> |
 
 ## Installation
 
