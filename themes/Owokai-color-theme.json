@@ -375,7 +375,7 @@
         },
         {
             "scope":[
-                "meta.preprocessor.macro",
+                "entity.name.function.preprocessor",
                 "entity.name.other.preprocessor.macro.predefined",
             ],
             "settings": {
