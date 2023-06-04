@@ -4,10 +4,12 @@
    font-family: Roboto, Inter, system-ui;
 }
 
-/* rounded corners for cursor
+/*
+ rounded corners for cursor
 .monaco-editor .cursors-layer .cursor {
    border-radius: 2px;
-} */
+}
+*/
 
 /* rounded corners for notifications, widgets and suggestion popups */
 .monaco-editor .suggest-widget,
