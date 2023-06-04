@@ -119,6 +119,7 @@
         "settings.textInputBackground": "#242429",
         "sideBar.background": "#181819",
         "sideBar.border": "#333333",
+        "sideBarSectionHeader.border": "#333333",
         "sideBarSectionHeader.background": "#181819",
         "sideBarSectionHeader.foreground": "#8c979b",
         "sideBarTitle.foreground": "#8c969b",
