@@ -9,7 +9,7 @@ Owokai Hard
 
 `custom.css`
 - Made suggestion window's documentation font size a constant of 16px as VSCode uses editor's font size for documentation window text and it makes it unreadable with big font sizes
-- Cursor rounding is commented out by default
+- Changed cursor rounding to be 0px by default
 
 # 0.8.9
 

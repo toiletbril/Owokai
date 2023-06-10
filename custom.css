@@ -1,10 +1,11 @@
-/* nice workbench font */
+/* font for everything that is not code */
 .windows,
 .linux {
    font-family: Roboto, Inter, system-ui;
 }
 
-/* when i use bigger font sizes the documentation window becomes unreadable :3 */
+/* font size for documentation text in suggestion popup
+   this is here because that text becomes unreadable with bigger font sizes */
 .hover-contents,
 .code-hover-contents {
    font-size: 18px !important;
