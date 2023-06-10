@@ -1,5 +1,15 @@
 # Change Log
 
+# 0.9.6
+
+- Added syntax scopes for `zig`
+
+Owokai Hard
+- Made backbround darker
+
+`custom.css`
+- Made suggestion window's documentation font size constant of 16px as VSCode uses editor's font size for documentation window text and it makes it unreadable with big font sizes.
+
 # 0.8.9
 
 Owokai Hard, Owokai
@@ -13,8 +23,8 @@ Owokai Hard, Owokai
 Owokai Hard
 - Made function calls bold
 
-custom.css
-- Comments
+`custom.css`
+- Added comments
 - Added rounding to the cursor
 
 Owokai Alt

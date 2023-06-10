@@ -4,12 +4,16 @@
    font-family: Roboto, Inter, system-ui;
 }
 
-/*
- rounded corners for cursor
-.monaco-editor .cursors-layer .cursor {
-   border-radius: 2px;
+/* when i use bigger font sizes the documentation window becomes unreadable :3 */
+.hover-contents,
+.code-hover-contents {
+   font-size: 18px !important;
 }
-*/
+
+ /* rounded corners for cursor */
+.monaco-editor .cursors-layer .cursor {
+   border-radius: 0px;
+}
 
 /* rounded corners for notifications, widgets and suggestion popups */
 .monaco-editor .suggest-widget,
