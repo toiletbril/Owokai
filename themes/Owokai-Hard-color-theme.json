@@ -287,10 +287,10 @@
         {
             "name": "Keyword",
             "scope": [
-                "keyword.type",
                 "keyword.other",
                 "keyword.struct",
                 "keyword.import",
+                "keyword.default",
                 "keyword.control",
                 "keyword.control",
                 "keyword.package",
@@ -327,7 +327,9 @@
             "scope": [
                 "support",
                 "storage.type",
+                "keyword.type",
                 "entity.name.tag",
+                "keyword.storage",
                 "storage.modifier",
                 "storage.type.class",
                 "storage.type.namespace",

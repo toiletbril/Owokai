@@ -235,10 +235,10 @@
         {
             "name": "Keyword",
             "scope": [
-                "keyword.type",
                 "keyword.other",
                 "keyword.struct",
                 "keyword.import",
+                "keyword.default",
                 "keyword.control",
                 "keyword.package",
                 "keyword.function",
@@ -303,6 +303,7 @@
         {
             "name": "Storage",
             "scope": [
+                "keyword.storage",
                 "storage.modifier",
                 "storage.type.class",
                 "storage.type.modifier.access"
