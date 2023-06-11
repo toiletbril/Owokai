@@ -268,7 +268,8 @@
         {
             "name": "Rust fix",
             "scope": [
-                "storage.type.rust"
+                "storage.type.rust",
+                "constant.language.boolean.rust"
             ],
             "settings": {
                 "fontStyle": ""
@@ -367,7 +368,6 @@
         {
             "name": "Other variable",
             "scope": [
-                "variable.other",
                 "variable.other.block",
                 "variable.other.property",
                 "entity.other.inherited-class"
