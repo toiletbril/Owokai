@@ -303,6 +303,7 @@
         {
             "name": "Storage",
             "scope": [
+                "meta.attribute",
                 "keyword.storage",
                 "storage.modifier",
                 "storage.type.class",

@@ -201,7 +201,7 @@
         {
             "scope": [
                 "entity",
-                "entity.name"
+                "entity.name",
             ],
             "settings": {
                 "foreground": "#b392f0"
@@ -228,7 +228,8 @@
         {
             "scope": [
                 "storage",
-                "storage.type"
+                "storage.type",
+                "meta.attribute"
             ],
             "settings": {
                 "foreground": "#f97583"
