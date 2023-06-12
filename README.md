@@ -3,7 +3,6 @@
 #  Owokai Themes
 
 Originally a fork of Monokai theme, now a standalone theme pack :3c
-
 For update log, see [Changelog](https://github.com/toiletbril/Owokai/blob/HEAD/CHANGELOG.md).
 
 | Owokai                                    | Owokai Hard                             | Owokai Alt                             |
