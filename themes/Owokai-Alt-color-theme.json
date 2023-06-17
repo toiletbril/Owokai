@@ -195,7 +195,7 @@
                 "variable.language"
             ],
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -204,7 +204,7 @@
                 "entity.name",
             ],
             "settings": {
-                "foreground": "#b392f0"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -258,13 +258,13 @@
         {
             "scope": "support",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
             "scope": "meta.property-name",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -318,7 +318,7 @@
         {
             "scope": "string variable",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -351,19 +351,19 @@
         {
             "scope": "support.constant",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
             "scope": "support.variable",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
             "scope": "meta.module-reference",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -379,7 +379,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -421,7 +421,7 @@
         {
             "scope": "markup.inline.raw",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
@@ -472,20 +472,20 @@
         {
             "scope": "meta.diff.header",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
             "scope": "meta.separator",
             "settings": {
                 "fontStyle": "bold",
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
             "scope": "meta.output",
             "settings": {
-                "foreground": "#75a1ff"
+                "foreground": "#88aeff"
             }
         },
         {
