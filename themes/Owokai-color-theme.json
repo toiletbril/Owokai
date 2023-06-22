@@ -389,7 +389,6 @@
             "name": "Function name",
             "scope": [
                 "support.function",
-                "meta.function-call",
                 "entity.name.function.call",
                 "entity.name.function-call",
                 "meta.function-call.generic",
