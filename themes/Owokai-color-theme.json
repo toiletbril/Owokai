@@ -235,6 +235,7 @@
         {
             "name": "Keyword",
             "scope": [
+                "keyword.type",
                 "keyword.other",
                 "keyword.struct",
                 "keyword.import",

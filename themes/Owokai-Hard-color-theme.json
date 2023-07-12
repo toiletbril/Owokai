@@ -287,6 +287,7 @@
         {
             "name": "Keyword",
             "scope": [
+                "keyword.type",
                 "keyword.other",
                 "keyword.struct",
                 "keyword.import",
@@ -327,7 +328,6 @@
             "scope": [
                 "support",
                 "storage.type",
-                "keyword.type",
                 "entity.name.tag",
                 "keyword.storage",
                 "storage.modifier",
