@@ -150,13 +150,6 @@
     },
     "tokenColors": [
         {
-            "name": "Nothing",
-            "scope": "",
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
             "name": "Comment",
             "scope": [
                 "comment",
@@ -179,29 +172,14 @@
             }
         },
         {
-            "name": "Comment Keywords",
-            "scope": [
-                "keyword.codetag"
-            ],
-            "settings": {
-                "fontStyle": "italic bold"
-            }
-        },
-        {
             "name": "String",
             "scope": [
                 "string",
                 "string.template",
+                "punctuation.definition.string"
             ],
             "settings": {
                 "foreground": "#64b358"
-            }
-        },
-        {
-            "name": "String Quotes",
-            "scope": "punctuation.definition.string",
-            "settings": {
-                "foreground": "#64b358",
             }
         },
         {
@@ -214,42 +192,23 @@
         {
             "name": "Default Embedded Color",
             "scope": [
-                "punctuation.section.embedded.begin.erb",
-                "punctuation.section.embedded.begin.js",
-                "punctuation.section.embedded.end.erb",
-                "punctuation.section.embedded.end.js",
-                "meta.function-call.arguments",
-                "storage.modifier.package",
                 "meta.template.expression",
                 "storage.modifier.import",
-                "source.elixir.embedded",
                 "support.constant",
-                "meta.brace",
+                "keyword.operator",
                 "source",
                 "text",
             ],
             "settings": {
                 "foreground": "#ebe9d7",
+                "fontStyle": ""
             }
         },
         {
             "name": "Keyword",
             "scope": [
-                "keyword.type",
-                "keyword.other",
-                "keyword.struct",
-                "keyword.import",
-                "keyword.default",
-                "keyword.control",
-                "keyword.package",
-                "keyword.function",
-                "keyword.operator.in",
-                "variable.language.this",
-                "keyword.operator.logical",
-                "keyword.operator.ternary",
-                "keyword.operator.wordlike",
-                "keyword.operator.constructor",
-                "variable.language.special.self"
+                "keyword",
+                "keyword.operator.logical"
             ],
             "settings": {
                 "foreground": "#dbad49",
@@ -257,27 +216,6 @@
             }
         },
         {
-            "name": "Keyword control",
-            "scope": [
-                "keyword.control"
-            ],
-            "settings": {
-                "foreground": "#dbad49",
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "name": "Rust fix",
-            "scope": [
-                "storage.type.rust",
-                "constant.language.boolean.rust"
-            ],
-            "settings": {
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Constant",
             "scope": [
                 "constant.language"
             ],
@@ -286,7 +224,6 @@
             }
         },
         {
-            "name": "User-defined constant",
             "scope": [
                 "constant.character",
                 "constant.other",
@@ -318,14 +255,14 @@
         {
             "name": "Types",
             "scope": [
+                "keyword.type",
                 "storage.type",
+                "entity.other",
                 "entity.name.tag",
-                "support.function.magic",
-                "storage.type.namespace",
-                "entity.name.tag.class.js",
+                "entity.name.type",
+                "support.function",
                 "constant.other.placeholder",
                 "entity.name.scope-resolution",
-                "entity.other.inherited-class.java",
                 "punctuation.definition.interpolation",
                 "punctuation.definition.template-expression"
             ],
@@ -337,11 +274,7 @@
         {
             "name": "Class",
             "scope": [
-                "support.class",
-                "entity.name.type",
-                "entity.name.class",
-                "entity.name.tag.id",
-                "entity.name.module",
+                "support",
                 "storage.identifier",
                 "entity.name.tag.class"
             ],
@@ -353,25 +286,9 @@
             "name": "Variable Object",
             "scope": [
                 "variable.readwrite",
-                "variable.other.object",
-                "variable.other.global",
-                "variable.other.constant",
                 "entity.other.attribute-name",
+                "entity.other.inherited-class",
                 "variable.readwrite.other.block",
-                "variable.other.readwrite.class",
-                "variable.other.readwrite.instance",
-                "variable.other.readwrite.batchfile",
-            ],
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
-            "name": "Other variable",
-            "scope": [
-                "variable.other.block",
-                "variable.other.property",
-                "entity.other.inherited-class"
             ],
             "settings": {
                 "foreground": "#ebe9d7"
@@ -383,6 +300,7 @@
                 "entity.name.other.preprocessor.macro.predefined",
             ],
             "settings": {
+                "foreground": "#ebe9d7",
                 "fontStyle": "bold",
             }
         },
@@ -390,7 +308,7 @@
             "name": "Function name",
             "scope": [
                 "support.function",
-                "entity.name.function.call",
+                "entity.name.function",
                 "entity.name.function-call",
                 "meta.function-call.generic",
                 "entity.name.function.definition"
@@ -400,48 +318,11 @@
             }
         },
         {
-            "name": "Function argument",
-            "scope": [
-                "variable.parameter",
-                "entity.name.variable.parameter",
-                "parameter.variable"
-            ],
-            "settings": {
-                "foreground": "#ebe9d7",
-            }
-        },
-        {
-            "name": "Builtin Functions",
-            "scope": [
-                "function.support.core",
-                "function.support.builtin"
-            ],
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
-            "name": "Library",
-            "scope": "support",
-            "settings": {
-                "foreground": "#8f9396"
-            }
-        },
-        {
-            "name": "JSON String",
-            "scope": "support.type.property-name.json",
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
             "name": "Invalid",
-            "scope": [
-                "invalid"
-            ],
+            "scope": "invalid",
             "settings": {
                 "foreground": "#c00000",
-                "fontStyle": "strikethrough"
+                "fontStyle": "bold"
             }
         },
         {
@@ -495,19 +376,6 @@
             }
         },
         {
-            "name": "General Punctuation",
-            "scope": [
-                "punctuation.comment",
-                "punctuation.definition.bold.markdown",
-                "punctuation.definition.italic.markdown",
-                "punctuation.definition.heading.markdown",
-            ],
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
-            "name": "Dots and commas",
             "scope": [
                 "punctuation.accessor",
                 "punctuation.separator",
@@ -518,35 +386,18 @@
             }
         },
         {
-            "name": "Markup: Bold",
             "scope": "markup.bold",
             "settings": {
                 "fontStyle": "bold"
             }
         },
         {
-            "name": "Markup: Bold",
-            "scope": "markup.bold",
-            "settings": {
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "name": "Markup: Bold",
-            "scope": "markup.italic",
-            "settings": {
-                "fontStyle": "italic"
-            }
-        },
-        {
-            "name": "Markup: Heading",
             "scope": "markup.heading.markdown",
             "settings": {
                 "fontStyle": "bold"
             }
         },
         {
-            "name": "Markup: Raw",
             "scope": [
                 "markup.block.raw",
                 "markup.inline.raw"

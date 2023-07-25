@@ -144,115 +144,21 @@
     },
     "tokenColors": [
         {
-            "name": "Nothing",
-            "scope": "",
-            "settings": {
-                "foreground": "#dddddd"
-            }
-        },
-        {
-            "name": "General Punctuation",
-            "scope": [
-                "punctuation.comment",
-                "punctuation.accessor",
-                "punctuation.separator",
-                "punctuation.terminator",
-                "punctuation.definition.bold.markdown",
-                "punctuation.definition.italic.markdown",
-                "punctuation.definition.heading.markdown",
-            ],
-            "settings": {
-                "foreground": "#dddddd"
-            }
-        },
-        {
             "name": "Default Embedded Color",
             "scope": [
-                "punctuation.section.embedded.begin.erb",
-                "punctuation.section.embedded.begin.js",
-                "punctuation.section.embedded.end.erb",
-                "punctuation.section.embedded.end.js",
-                "storage.modifier.package",
-                "storage.modifier.import",
-                "source.elixir.embedded",
-                "support.constant",
-                "meta.brace",
-                "source",
                 "text",
-            ],
-            "settings": {
-                "foreground": "#dddddd",
-            }
-        },
-        {
-            "name": "User-defined constant",
-            "scope": [
+                "source",
+                "variable",
+                "meta.macro",
+                "keyword.symbol",
+                "keyword.operator",
                 "constant.character",
-                "variable.language",
-                "constant.other",
-            ],
-            "settings": {
-                "foreground": "#dddddd"
-            }
-        },
-        {
-            "name": "Variable Object",
-            "scope": [
-                "variable.readwrite",
-                "variable.other.object",
-                "variable.other.global",
-                "variable.other.constant",
-                "entity.other.attribute-name",
-                "entity.other.inherited-class",
-                "variable.readwrite.other.block",
-                "variable.other.readwrite.class",
-                "variable.other.readwrite.instance",
-                "variable.other.readwrite.batchfile",
-            ],
-            "settings": {
-                "foreground": "#dddddd"
-            }
-        },
-        {
-            "name": "Other variable",
-            "scope": [
-                "variable.other",
-                "variable.other.block",
-                "variable.other.property"
-            ],
-            "settings": {
-                "foreground": "#dddddd"
-            }
-        },
-        {
-            "name": "Function call",
-            "scope": [
-                "support.function",
-                "meta.function.call",
-                "function.support.core",
-                "function.support.builtin",
-                "entity.name.function-call"
+                "entity.name.variable",
+                "entity.name.function"
             ],
             "settings": {
                 "foreground": "#dddddd",
-            }
-        },
-        {
-            "name": "Function argument",
-            "scope": [
-                "entity.name.variable.parameter",
-                "variable.parameter",
-                "parameter.variable"
-            ],
-            "settings": {
-                "foreground": "#dddddd",
-            }
-        },
-        {
-            "name": "JSON String",
-            "scope": "support.type.property-name.json",
-            "settings": {
-                "foreground": "#dddddd"
+                "fontStyle": ""
             }
         },
         {
@@ -287,18 +193,8 @@
         {
             "name": "Keyword",
             "scope": [
-                "keyword.type",
-                "keyword.other",
-                "keyword.struct",
-                "keyword.import",
-                "keyword.default",
-                "keyword.control",
-                "keyword.control",
-                "keyword.package",
-                "keyword.function",
-                "keyword.operator.logical",
-                "keyword.operator.wordlike",
-                "keyword.operator.constructor"
+                "keyword",
+                "entity.name.function.macro.rules.rust"
             ],
             "settings": {
                 "foreground": "#d8b65a",
@@ -306,38 +202,14 @@
             }
         },
         {
-            "name": "Rust fix",
-            "scope": [
-                "storage.type.rust"
-            ],
-            "settings": {
-                "fontStyle": ""
-            }
-        },
-        {
-            "name": "Constant",
-            "scope": [
-                "constant.language"
-            ],
-            "settings": {
-                "foreground": "#939799",
-            }
-        },
-        {
             "name": "Types",
             "scope": [
                 "support",
-                "storage.type",
-                "entity.name.tag",
+                "storage",
+                "entity.name",
+                "keyword.type",
                 "keyword.storage",
-                "storage.modifier",
-                "storage.type.class",
-                "storage.type.namespace",
-                "entity.name.tag.class.js",
                 "constant.other.placeholder",
-                "storage.type.modifier.access",
-                "entity.name.scope-resolution",
-                "entity.other.inherited-class.java",
                 "punctuation.definition.interpolation"
             ],
             "settings": {
@@ -346,18 +218,12 @@
             }
         },
         {
-            "name": "Class",
-            "scope": [
-                "support.class",
-                "entity.name.type",
-                "entity.name.class",
-                "entity.name.tag.id",
-                "entity.name.module",
-                "storage.identifier",
-                "entity.name.tag.class"
+            "scope":[
+                "entity.name.function.preprocessor",
+                "entity.name.other.preprocessor.macro.predefined",
             ],
             "settings": {
-                "foreground": "#939799"
+                "fontStyle": "bold",
             }
         },
         {
@@ -367,7 +233,7 @@
             ],
             "settings": {
                 "foreground": "#c00000",
-                "fontStyle": "strikethrough"
+                "fontStyle": "bold"
             }
         },
         {
