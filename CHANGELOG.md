@@ -1,5 +1,11 @@
 # Change Log
 
+# 1.0.0
+
+Owokai, Owokai Hard
+- Removed ~150 unecessary lines from each file
+- A lot of small changes which I have not bothered documenting in this file. Some of them are in commit messages.
+
 # 0.9.6
 
 - Added syntax scopes for `zig` language
