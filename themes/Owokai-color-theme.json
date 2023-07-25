@@ -194,8 +194,11 @@
             "scope": [
                 "meta.template.expression",
                 "storage.modifier.import",
+                "constant.character",
+                "variable.language",
                 "support.constant",
                 "keyword.operator",
+                "constant.other",
                 "source",
                 "text",
             ],
@@ -221,22 +224,6 @@
             ],
             "settings": {
                 "foreground": "#8f9396",
-            }
-        },
-        {
-            "scope": [
-                "constant.character",
-                "constant.other",
-            ],
-            "settings": {
-                "foreground": "#ebe9d7"
-            }
-        },
-        {
-            "name": "Language Variable",
-            "scope": "variable.language",
-            "settings": {
-                "foreground": "#ebe9d7"
             }
         },
         {
@@ -285,6 +272,7 @@
         {
             "name": "Variable Object",
             "scope": [
+                "meta.property-name",
                 "variable.readwrite",
                 "entity.other.attribute-name",
                 "entity.other.inherited-class",

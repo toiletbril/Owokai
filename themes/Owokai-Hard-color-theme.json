@@ -152,9 +152,10 @@
                 "meta.macro",
                 "keyword.symbol",
                 "keyword.operator",
+                "meta.property-name",
                 "constant.character",
                 "entity.name.variable",
-                "entity.name.function"
+                "entity.name.function",
             ],
             "settings": {
                 "foreground": "#dddddd",
@@ -209,6 +210,7 @@
                 "entity.name",
                 "keyword.type",
                 "keyword.storage",
+                "constant.language",
                 "constant.other.placeholder",
                 "punctuation.definition.interpolation"
             ],
