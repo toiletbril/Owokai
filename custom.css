@@ -11,7 +11,7 @@
    font-size: 18px !important;
 }
 
- /* rounded corners for cursor */
+/* rounded corners for cursor */
 .monaco-editor .cursors-layer .cursor {
    border-radius: 0px;
 }
