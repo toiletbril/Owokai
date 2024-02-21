@@ -119,7 +119,7 @@
         "statusBarItem.remoteBackground": "#0b5052",
         "tab.activeBackground": "#1c1c1a",
         "tab.activeBorder": "#1c1c1a",
-        "tab.activeBorderTop": "#363632",
+        "tab.activeBorderTop": "#737062",
         "tab.border": "#00000000",
         "tab.hoverBackground": "#343530",
         "tab.inactiveBackground": "#252421",
@@ -192,6 +192,8 @@
         {
             "name": "Default Embedded Color",
             "scope": [
+                "punctuation.separator.pointer-access",
+                "entity.name.function.operator",
                 "meta.template.expression",
                 "storage.modifier.import",
                 "constant.character",
@@ -211,7 +213,10 @@
             "name": "Keyword",
             "scope": [
                 "keyword",
-                "keyword.operator.logical"
+                "keyword.operator.expression",
+                "keyword.operator.logical",
+                "keyword.operator.cast",
+                "punctuation.accessor.optional",
             ],
             "settings": {
                 "foreground": "#dbad49",
